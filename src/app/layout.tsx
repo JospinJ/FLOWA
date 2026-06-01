@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Flowa — OSC 2026" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "/logo-orange.svg",
   },
   openGraph: {
     title: "FLOWA — L'IA qui garantit votre trésorerie",
